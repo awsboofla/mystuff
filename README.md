@@ -1,4 +1,4 @@
-***This is my corporate bio***
+*(This is my corporate bio - mugshot available if you need one)*
 
 # Brendan Bouffler
 ## Principal Product Manager for HPC
